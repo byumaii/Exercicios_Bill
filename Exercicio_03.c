@@ -17,5 +17,5 @@ int main(void) {
 
     printf("Media: %.2f\n", media);
 
-
+    return 0;
 }
