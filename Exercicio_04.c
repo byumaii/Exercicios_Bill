@@ -13,6 +13,5 @@ int main(void)
         printf("%d é um número ímpar.\n", num);
     }
 
-
     return 0;
 }
